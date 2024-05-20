@@ -1,0 +1,191 @@
+.titulo1{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    color: blue;
+    
+    }
+
+    .titulo2{
+        display: flex;
+        justify-content: center;
+        color: blueviolet;
+    }
+
+.primerbloque{
+    position: relative;
+    top: 20px;
+   }
+
+   .parte1{
+    position: relative;
+    top: 20px;
+    left: 50px;
+   }
+   .primerarticulo{
+    font-size: 25px;
+    text-align: justify;
+   }
+
+   .parte2{
+    position: relative;
+    left: 450px ;
+    bottom: 290px;
+    
+   }
+
+   .segundobloque{
+    position: relative;
+    left: 400px;
+    bottom: 295px;
+
+   }
+
+   .segundoarticulo{
+    position: relative;
+    left: 400px;
+    bottom: 315px;
+    font-size: 25px;
+    text-align: justify;
+   }
+
+   .sabermas2{
+    position: relative;
+    left: 400px;
+    bottom: 320px;
+   }
+
+   .parte3{
+    position: relative;
+    left: 800px;
+    bottom: 630px;
+    justify-content: center;
+    }
+
+    .tercerbloque{
+    position:relative;
+    bottom: 15px;
+    }
+
+    .tercerarticulo{
+    position: relative;
+    bottom: 30px;
+    font-size: 25px;
+    text-align: justify;
+    }
+
+    .parte4{
+    position: relative;
+    left: 430px;
+     bottom: 300px;
+    }
+
+    .cuartobloque{
+    position: relative;
+    bottom: 15px;
+    }
+
+    .cuartoarticulo{
+    position: relative;
+    bottom: 35px;
+    font-size: 25px;
+    text-align: justify;
+
+    }
+
+    .sabermas4{
+    position: relative;
+    bottom: 20px;
+    }
+
+    #parteA{
+    position: relative;
+    right: 1220px;
+    font-size: 20px;
+    top: 200px;
+    }
+
+    .parrafoA{
+    position: relative;
+    
+    bottom: 15px;
+    }
+
+    .listaA{
+    position: relative;
+    bottom: 20px;
+    }
+
+    #parteB{
+    position: relative;
+    left: 400px;
+    font-size: 20px;
+    bottom: 485px;
+
+    }
+    .parrafoB{
+    position: relative;
+    bottom: 15px;
+    }
+
+    .listaB{
+    position: relative;
+    top: 60px;      
+    }
+
+    #parteC{
+     position: relative;
+     left: 800px;
+     bottom: 900px;
+   
+    }
+    .parrafoC{
+     position: relative;
+     bottom: 20px;
+
+    }
+    .listaC{
+        position: relative;
+        top: 60px;
+    }
+
+    #parteD{
+    position: relative;
+    left: 400px;
+    bottom: 430px;
+    }
+
+.listaD{
+    position: relative;
+    top: 105px;
+}
+
+.imagenfinal{
+    position: relative;
+    top: 140px;
+    right: 750px;
+}
+
+.sabermas1 :hover{
+ color: #cc3a3a;
+}
+
+.sabermas2 :hover{
+color: #cc3a3a;
+
+}
+
+.sabermas3 :hover{
+color: #cc3a3a;
+}
+
+.sabermas4 :hover{
+color: #cc3a3a;
+}
+
+.intra{
+    position: relative;
+    right: 1200px;
+    top:160px;
+
+}

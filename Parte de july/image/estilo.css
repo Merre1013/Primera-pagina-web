@@ -1,0 +1,831 @@
+header{
+    
+    display: flex;
+    justify-content: space-be
+}
+
+.contenedorlogo{ 
+    
+    display: flex;
+    justify-content:space-between;
+    margin-top: 56px;
+    margin-left: 100px;
+    align-items: center;
+    width: 160px;
+    height: 41px;
+    
+}
+nav{
+    
+    width: 545px;
+    height: 23px;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    margin-right: 150px;
+    
+  
+}
+ nav ul{
+    
+    display: flex;
+    width: 545px;
+    justify-content: space-between;
+    margin-top: 70px;
+    margin-left: 0px;   
+
+ }
+
+ nav ul li a {
+    font-size: 18px;
+    color: #1F1534;
+    text-decoration: none;
+    font-family: "Mulish", sans-serif; ;
+    font-weight:  700;
+ }
+nav ul{
+   list-style-type: none;
+}
+ main{  
+ }
+
+ section{
+    justify-content: space-between;
+    width: 427;
+    height: 112;
+    position: relative;  
+ }
+ .titulo{
+    
+    width: 427px;
+    height: 112px;
+    margin-top: 283px;
+    margin-left: 190px;
+    margin: 5px;
+    padding: 5px;
+    font-family:  "Mulish", sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    margin-left: 100px;   
+ }
+ .genteimagen{
+    
+    width: 693px;
+    height: 598px;
+   /* top: 177px;*/
+   /* left: 744px;*/
+    position: relative;
+    bottom:220px;
+    left: 800px;       
+ }
+ .parrafo{
+    
+    width: 445px;
+    height: 96px;
+   /* top: 420px;*/
+   /* left: 190px;*/
+   position: relative;
+   top: 200px;
+   bottom: 200px; ;
+   left: 100px;
+   font-size: 21px;
+   font-family:  "Mulish", sans-serif;
+   font-weight: 300;
+   color:#7D7987;  
+ }
+ 
+.boton{
+   background-color: blueviolet;
+   width: 200px;
+   height: 60px;
+   /*top: 561px;*/
+  /* left: 230px;*/
+  position: relative;
+  top: 200px;
+  bottom: 50px;
+  left: 100px;
+  font-size: 28px;
+  font-family:  "Mulish", sans-serif;
+  font-weight: 700px ;
+  background-color: rgb(82, 82, 249);
+  color: aliceblue;
+  display: flex;
+  justify-content:center ;
+  align-items: center;
+  border-radius: 55px;
+}
+
+.texto{
+   
+   width: 212;
+   height: 56;
+   /*top: 967px;*/
+   /*left: 695;*/
+   position: relative;
+   right: 500px;
+   bottom: 200px;
+   left: 350px;
+   font: size 36px; ;
+   font-family: "Mulish", sans-serif; 
+   font: weight 700px; ;
+
+} #tex{
+   
+   position: relative;
+   left: 400px ;
+}
+
+.linea1{
+   width: 56px;
+   height: 2px;
+   top: 1049px;
+   left: 872px;
+   border-radius: 5px;
+   color: #000000;
+}
+
+
+#linea{
+   
+   position: relative;
+   left: 430px;
+}
+
+#textofinal{
+   
+   width: 962px;px
+   height: 60px;
+  /* top: 1084px;*/
+ /*  left: 323px;*/
+   position: relative;
+   top: 30px;
+   right: 20px   ;
+   font-size: 18px;
+   font-family:"Mulish", sans-serif ;
+   font-weight: 700px; 
+   color: #7D7987;
+
+}
+
+.lupa{
+   background-color: aliceblue;
+   width: 350px;
+   height: 354px;
+  /* top: 1224px;*/
+  /* left: 240px;*/
+  position: relative;
+  bottom: 100px;
+  left: 200px;
+  border-radius: 20px;
+  
+}
+#lupaf{
+   
+   width: 91.98px;
+   height: 90px;
+  /* top: 1298px;¨*/
+  /* left: 277px;*/
+  position: relative;
+  top: 40px;   
+  left: 30px;
+
+}
+#sub{
+   
+   width: 160px;
+   height: 56px;
+  /* top: 1340.91px;*/
+  /* left: 279px;*/
+  position: relative;
+  left: 30px;
+  top: 40px;
+   font-size: 24px;
+   font-family:"Mulish", sans-serif ;
+   font-weight: 700PX;
+}
+#parrafito{
+   
+   width: 266px;
+   height: 84px;
+  /* top: 1447.41px;*/
+  /* left: 279px;*/
+  position: relative;
+  left: 30px;
+  top: 20px ;
+   font-size: 16px;
+   font-family:"Mulish", sans-serif ;
+   font-weight: 300px;
+   color: #7D7987;
+   line-height: 28px;
+}
+
+.Frasco {
+   background-color: aliceblue;
+   width: 350px;
+   height: 354px;
+  /* top: 1224px;*/
+  /* left: 624px;*/
+  position: relative;
+  bottom: 455px;
+  left: 600px;
+  border-radius: 20px;
+}
+
+#frascof{
+   
+   width: 61.86px;
+   height: 85px;
+   /*left: -0px;*/
+   position: relative;
+   top: 40px;
+   left: 30px;
+
+}
+#sub2{
+   
+   width: 196px;
+   height: 56px;
+  /* top: 1340.91px;*/
+  /* left: 660.36px;*/
+  position: relative;
+  top: 50px;
+  left:30px ;
+  font-size: 24px;
+  font-weight: 700px;
+  font-family::"Mulish", sans-serif ; 
+}
+
+#parrafito2{
+   
+   width: 261px;
+   height: 84px;
+  /* top: 1447px;*/
+  /* left: 661px;*/
+  position: relative;
+  top: 30px;
+  left: 30px;
+  font-size: 16px;
+  font-weight: 300px;
+  font-family: "Mulish", sans-serif;
+  line-height: 28px;
+  color:  #7D7987;
+
+}
+.Frame{
+   background-color:aliceblue;
+   width: 350px;
+   height: 354px;
+  /* top: 1615px;*/
+  /* left: 240px;*/
+  position: relative;
+  bottom: 400px;
+  left: 200px;
+  border-radius: 20px;
+
+
+}
+#Framei{
+   width: 67.29px;
+   height: 95px;
+   /*top: 1271px;*/
+  /* left: 1048px;*/
+  position: relative;
+  left: 50px;
+  top: 30px;
+
+}
+#sub3{
+   width: 146px;
+   height: 56px;
+ /*  top: 1340.91px;*/
+ /*  left: 1048.36px;*/
+   position: relative;
+    top: 40px;
+   left: 30px;
+   font-size: 24px;
+   font-weight: 700px;
+   font-family:  "Mulish", sans-serif;
+   line-height: 56px;
+}
+#parrafito3{
+   width: 261px;
+   height: 84px;
+   /*top: 1447px;*/
+  /* left: 1049px;*/
+  position: relative;
+  top: 40px;
+  left: 30px;
+  font-size: 16px;
+  font-weight: 300px;
+  font-family: "Mulish", sans-serif ;
+  line-height: 28px;
+  color:  #7D7987;
+} 
+.tarjeta4{
+   background-color: aliceblue;
+   width: 350px;
+   height: 354px;
+  /* top: 1224px;*/
+  /* left: 1010px;*/
+   position: relative;
+   bottom: 1155px;
+   left: 1000px;
+   border-radius: 20px;
+}
+#tarjetat{
+   background-color: #5A98F2;
+   width: 67.29px;
+   height: 95px;
+   /*top: 1271px;*/
+   /*left: 1048px;*/
+   position: relative;
+   top: 50px;
+   left: 60px;
+}
+#sub4{
+   width: 146px;
+   height: 56px;
+  /* top: 1390.41px;*/
+  /* left: 1048.36px;*/
+  position: relative;
+  top: 40px;
+  left: 30px;
+  font-size: 24px;
+  font-weight: 700px;
+  font-family:"Mulish", sans-serif ;
+  line-height: 56px;
+
+}
+#parrafito4{
+   width: 261px;
+   height: 84px;
+  /* top: 1447px;*/
+  /* left: 1049px;*/
+  position: relative;
+  top: 30px;
+  left: 30px;
+  font: size 16px;
+  font-weight: 300px;
+  font-family: "Mulish", sans-serif;
+  line-height: 28px;
+  color:  #7D7987;
+}
+.cruzroja{
+   background-color:aliceblue;
+   width: 350px;
+   height: 354px;
+  /* top: 1615px;*/
+  /* left: 624px;*/
+  position: relative;
+  bottom: 1100px;
+  left: 600px;
+  border-radius: 20px;
+}
+#cruz{
+   background-color: aliceblue;
+   width: 90px;
+   height: 71.15px;
+   /*top: 1674px;*/
+  /* left: 664px;*/
+  position: relative;
+  top: 40px;
+  left: 30px;
+}
+#sub5{
+   width: 182px;
+   height: 56px;
+  /* top: 1781.41px;*/
+ /*left: 662px;*/
+ position: relative;
+ top: 40px;
+ left: 30px;
+ font-size: 24px;
+ font-weight: 700px  ;
+ font-family: "Mulish", sans-serif ;
+
+}
+#parrafito5{
+   width: 266px;
+   height: 48px;
+  /* top: 1838.41px;*/
+   /*left: 663px;*/
+   position: relative;
+   top: 40px;
+   left: 30px; 
+   font-size: 16px;
+   font-weight: 300;
+   font-family: "Mulish", sans-serif;
+   line-height: 28px;
+   color:  #7D7987;
+}
+.libretacruz{
+   background-color:aliceblue;
+   width: 350px;
+   height: 354px;
+   /*top: 1224px;*/
+   /*left: 1010px;*/
+   position: relative;
+   bottom: 1450px;
+   left: 1000px;
+   border-radius: 20px;
+}
+#libreta{
+   width: 69.42px;
+   height: 95px;
+  /* top: 1667px;*/
+  /* left: 1048px;*/
+  position: relative;
+  top: 40px;
+  left: 30px;
+}
+#sub6{
+   width: 98px;
+   height: 56px;
+   /*top: 1781.41px;*/
+  /* left: 1048px;*/
+  position: relative;
+  top: 40px;
+  left:30px ;
+  font-size: 24px;
+  font-weight: 700px;
+  font-family: "Mulish", sans-serif;
+  line-height: 56px;
+}
+#parrafito6{
+   width: 261px;
+   height: 56px;
+  /* top: 1838px;*/
+  /* left: 1049px;*/
+  position: relative;
+  top: 40px; 
+  left: 30px;
+  font-size: 16px;
+  font-weight: 300px;
+  font-family:  "Mulish", sans-serif;
+  line-height: 28px;
+  color:  #7D7987 ;
+}
+.more{
+   
+   width: 300px;
+   height: 80px;
+   /*top: 2038px;*/
+   /*left: 700px;*/
+   position: relative;
+   bottom: 1300px;
+   left: 600px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border-radius: 55px;
+}
+#more1{
+   width: 150px;
+   height: 60px;
+  /* top: 2038px;*/ 
+  /* left: 751px;*/
+  background-color: #458FF6;
+  position: relative;
+  bottom: 100px;
+   font-size: 18px;
+   font-weight: 700px;
+   font-family:"Mulish", sans-serif ;
+   line-height: 30px;
+   color: #ecf2fa;
+   border-radius: 55px;
+   border: 1.4px;
+}
+    
+ .customer{
+   background-color: #458FF6;
+   width: 1120px;
+   height: 425px;
+   border-radius: 24px;
+   color: #67C3F3;
+   color: #5A98F2;
+   position: relative;
+   bottom: 1200px;
+   left: 200px;
+ }
+ #What{
+   width: 522px;
+   height: 48px;
+  /* top: 3724px;*/ 
+  /* left: 543px;*/
+  position: relative;
+  top: 50px;
+  left: 300px;
+  font-size: 36px;
+  font-weight: 700px;
+  font-family:"Mulish", sans-serif ;
+  color:  #FFFFFF;
+  
+ } 
+ #linea6{
+   width: 56px;
+   height: 2px;
+  /* top: 3861px;*/
+  /* left: 776px;**/
+   border-radius: 6px;
+   position: relative;
+   top: 50px;
+   left: 550px;
+   color:  #FFFFFF;
+ } 
+ .foto{
+   width: 141px;
+   height: 141px;
+  /* top: 3929px;*/
+  /* left: 360px;*/
+  position: relative;
+  left: 100px;
+  top: 120px;
+  
+  
+ }
+ .nombre {
+   width: 148px;
+   height: 48px;
+   /*top: 3960px;*/
+  /* left: 530px;*/
+  position: relative;
+  left: 300px;
+  font-size:"Mulish", sans-serif ;
+  color: #FFFFFF;
+ }
+ .parrafos{
+   width: 420px;
+   height: 120px;
+  /* top: 3940px;*/
+  /* left: 824px;*/
+  bottom: 100px;
+   left: 600px;
+   font-size: 19px;
+   font-weight: 400px;
+   font-family:"Mulish", sans-serif ;
+   line-height: 30px;
+   color: #FFFFFF ;
+ }
+ .flechat{
+   width: 336.43px;
+   height: 20px;
+  /* top: 4191px;*/
+  /* left: 633px;*/
+  position: relative;
+  left: 400px;
+  top: 50px;
+ }
+ .logofinal{
+   background-color: #458FF6;
+   width: 1600px;
+   height: 432px;
+  
+  position: relative;
+  right: 100px;
+  bottom: 1000px;
+  font-size: 34px;
+  font-weight: 700;
+  font-family: "Mulish", sans-serif;
+  color: #FFFFFF;
+ }
+ #letrat{
+  
+   position: relative;
+   top: 100px;
+   left: 300px;
+   font-size: 24px;
+   font-weight: 700px;
+   font-family: "Mulish", sans-serif;
+   color: #FFFFFF;
+ }
+#ultimoparrafo{
+   width: 391px;
+   height: 84px;
+  /* top: 5114px;*/
+ /*  left: 190px;*/
+ position: relative;
+ bottom: 1300px;
+ left: 200px;
+ font-size: 18px;
+ font-weight: 300px;
+ font-family: "Mulish", sans-serif ;
+ color: #FFFFFF;
+} 
+.fin{
+   width: 391px;
+   height: 214px;
+  /* top: 5547px;*/
+  /* left: 726px;*/
+  position: relative;
+  bottom: 1450px;
+  left: 730px;
+  font-size: 20px;
+  font-weight: 700px ;
+  font-family: "Mulish", sans-serif ;
+  color: #FFFFFF;
+}
+#a{
+   width: 391px;
+   height: 152px;
+  /* top: 5609px;*/
+  /* left: 726px;*/
+  position: relative;
+  bottom: 1650px;
+  left: 730px;
+  font-size: 18px;
+  font-weight: 300px;
+  font-family:"Mulish", sans-serif ;
+  color: #FFFFFF;
+}
+#t{
+   width: 391px;
+   height: 152px;
+  /* top: 5609px;*/
+  /* left: 726px;*/
+   position: relative;
+  bottom: 1790px;
+  left: 730px;
+  font-size: 18px;
+  font-weight: 300px;
+  font-family:"Mulish", sans-serif ;
+  color: #FFFFFF;
+
+}
+#d{
+   width: 391px;
+   height: 152px;
+  /* top: 5609px;*/
+  /* left: 726px;*/
+   position: relative;
+  bottom: 1920px;
+  left: 730px;
+  font-size: 18px;
+  font-weight: 300px;
+  font-family:"Mulish", sans-serif ;
+  color: #FFFFFF;
+
+}
+#ap{
+   width: 391px;
+   height: 152px;
+  /* top: 5609px;*/
+  /* left: 726px;*/
+   position: relative;
+  bottom: 2060px;
+  left: 730px;
+  font-size: 18px;
+  font-weight: 300px;
+  font-family:"Mulish", sans-serif ;
+  color: #FFFFFF;
+}
+.reg{
+   width: 67px;
+   height: 60px;
+  /* top: 5577px;*/
+  /* left: 995px;*/
+  position: relative;
+  bottom: 2390px;
+  left: 950px;
+  font-size: 20px;
+  font-weight: 700px ;
+  font-family: "Mulish", sans-serif ;
+  color: #FFFFFF;
+}
+#ind{
+   width: 391px;
+   height: 152px;
+  /* top: 5609px;*/
+  /* left: 726px;*/
+   position: relative;
+  bottom: 2430px;
+  left: 950px;
+  font-size: 18px;
+  font-weight: 300px;
+  font-family:"Mulish", sans-serif ;
+  color: #FFFFFF;
+}
+#sin{
+   width: 391px;
+   height: 152px;
+  /* top: 5609px;*/
+  /* left: 726px;*/
+   position: relative;
+  bottom: 2565px;
+  left: 950px;
+  font-size: 18px;
+  font-weight: 300px;
+  font-family:"Mulish", sans-serif ;
+  color: #FFFFFF;
+}
+#hon{
+   width: 391px;
+   height: 152px;
+  /* top: 5609px;*/
+  /* left: 726px;*/
+   position: relative;
+  bottom: 2705px;
+  left: 950px;
+  font-size: 18px;
+  font-weight: 300px;
+  font-family:"Mulish", sans-serif ;
+  color: #FFFFFF;
+}
+#can{
+   width: 391px;
+   height: 152px;
+  /* top: 5609px;*/
+  /* left: 726px;*/
+   position: relative;
+  bottom: 2840px;
+  left: 950px;
+  font-size: 18px;
+  font-weight: 300px;
+  font-family:"Mulish", sans-serif ;
+  color: #FFFFFF;
+}
+.h{
+   width: 45px;
+   height: 60px;
+  /* top: 5547px;*/
+  /* left: 1228px;*/
+  position: relative;
+  bottom: 3178px;
+  left: 1150px;
+  font-size: 20px;
+  font-weight: 700px ;
+  font-family: "Mulish", sans-serif ;
+  color: #FFFFFF;
+}
+#hel{
+   width: 391px;
+   height: 152px;
+  /* top: 5609px;*/
+  /* left: 726px;*/
+   position: relative;
+  bottom: 3215px;
+  left: 1150px;
+  font-size: 18px;
+  font-weight: 300px;
+  font-family:"Mulish", sans-serif ;
+  color: #FFFFFF;
+}
+#con{
+   width: 391px;
+   height: 152px;
+  /* top: 5609px;*/
+  /* left: 726px;*/
+   position: relative;
+  bottom: 3350px;
+  left: 1150px;
+  font-size: 18px;
+  font-weight: 300px;
+  font-family:"Mulish", sans-serif ;
+  color: #FFFFFF;
+}
+#inst{
+   width: 391px;
+   height: 152px;
+  /* top: 5609px;*/
+  /* left: 726px;*/
+   position: relative;
+  bottom: 3485px;
+  left: 1150px;
+  font-size: 18px;
+  font-weight: 300px;
+  font-family:"Mulish", sans-serif ;
+  color: #FFFFFF;
+}
+#it{
+   width: 391px;
+   height: 152px;
+  /* top: 5609px;*/
+  /* left: 726px;*/
+   position: relative;
+  bottom: 3620px;
+  left: 1150px;
+  font-size: 18px;
+  font-weight: 300px;
+  font-family:"Mulish", sans-serif ;
+  color: #FFFFFF;
+}
+#trac{
+   width: 391px;
+   height: 28px;
+   /*top: 5729;*/
+   /*left: 190px;*/
+   position: relative;
+   bottom: 3750px;
+   left: 200px;
+   font-size: 18px;
+   font-weight: 300px;
+   font-family:"Mulish", sans-serif ;
+   color: #FFFFFF;
+}
+    
+
+
+    
+
+
+
+

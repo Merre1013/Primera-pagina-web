@@ -1,0 +1,254 @@
+
+
+section{
+}
+body{
+    background-image: url(assets/image/degrade.jpg);
+}
+.tarjetas{ 
+    position: relative;  
+}
+.container{
+    width: 1200px;
+    
+}
+.tarjeta1{
+    position: relative;
+    width: 100px;
+    height: 650px;
+    font-size: 18px;
+    font-weight: 300px;
+    font-family:"Mulish", sans-serif ;
+    color: #FFFFFF;
+
+}
+.tarjeta2{
+    position: relative;
+    left: 400px;
+    width: 350px;
+    height: 650px;
+    bottom: 605px;
+    font-size: 18px;
+    font-weight: 300px;
+    font-family:"Mulish", sans-serif ;
+    color: #FFFFFF;
+}
+.tarjeta3{
+    position: relative;
+    left: 1000px;
+    width: 350px;
+    height: 600px;
+    bottom: 1203px;
+    font-size: 18px;
+    font-weight: 300px;
+    font-family:"Mulish", sans-serif ;
+    color: #FFFFFF;
+
+}
+.titulo{
+    position: relative;
+    left: 550px;
+    font-family: "Mulish", sans-serif;
+    font-weight: 40px;
+    font-size: 50px;
+}
+#parrafo{
+    position: relative;
+    left: 200px;
+    font-size: 30px;
+    font-family: "Mulish", sans-serif;
+}
+#oip1{
+    width: 200px;
+    height: 180px;
+    font-family:"Mulish", sans-serif ;    
+}
+#negro{
+    width: 458px;
+    height: 250px;
+ 
+    font-family: "Mulish", sans-serif;
+}
+   
+#señora{
+    width: 300px;
+    height: 200px;
+    font-family: "Mulish", sans-serif;
+    font-size: 66px;   
+}
+footer{
+    background-color: #5A98F2;
+    width: 1600px;
+    height: 432px;
+    position: relative;
+    bottom: 900px;
+}
+.logofinal{
+    position: relative;
+    top: 100px;
+    left: 200px;
+    color:  #FFFFFF;
+}
+#ultimoparrafo{
+    position: relative;
+    top: 140px;
+    left: 200px;
+    font-size: 18px;
+    font-weight: 300px;
+    font-family:"Mulish", sans-serif ;
+    color: #FFFFFF;
+}
+.fin{
+    position: relative;
+    bottom: 50px;
+    left: 700px;
+    font-size: 18px;
+    font-weight: 300px;
+    font-family:"Mulish", sans-serif ;
+    color: #FFFFFF;
+}
+#a{
+    position: relative;
+    bottom: 50px; 
+    left: 700px;
+    font-size: 18px;
+    font-weight: 300px;
+    font-family:"Mulish", sans-serif ;
+    color: #FFFFFF;
+}
+#t{
+    position: relative;
+    bottom: 50px; 
+    left: 700px;
+    font-size: 18px;
+    font-weight: 300px;
+    font-family:"Mulish", sans-serif ;
+    color: #FFFFFF;
+
+}
+#d{
+    position: relative;
+    bottom: 50px; 
+    left: 700px;
+    font-size: 18px;
+    font-weight: 300px;
+    font-family:"Mulish", sans-serif ;
+    color: #FFFFFF;
+}
+#ap{
+    position: relative;
+    bottom: 50px; 
+    left: 700px; font-size: 18px;
+    font-weight: 300px;
+    font-family:"Mulish", sans-serif ;
+    color: #FFFFFF;
+
+}
+.reg{
+    position: relative;
+    bottom: 195px;
+    left: 980px;
+    font-size: 18px;
+    font-weight: 300px;
+    font-family:"Mulish", sans-serif ;
+    color: #FFFFFF;
+}
+#ind{
+    position: relative;
+    bottom: 195px; 
+    left: 980px;
+    font-size: 18px;
+    font-weight: 300px;
+    font-family:"Mulish", sans-serif ;
+    color: #FFFFFF;
+}
+#sin{
+    position: relative;
+    bottom: 195px; 
+    left: 980px;
+    font-size: 18px;
+    font-weight: 300px;
+    font-family:"Mulish", sans-serif ;
+    color: #FFFFFF;
+}
+#hon{
+    position: relative;
+    bottom: 195px; 
+    left: 980px;
+    font-size: 18px;
+    font-weight: 300px;
+    font-family:"Mulish", sans-serif ;
+    color: #FFFFFF;
+}
+#can{
+    position: relative;
+    bottom: 195px; 
+    left: 980px;
+    font-size: 18px;
+    font-weight: 300px;
+    font-family:"Mulish", sans-serif ;
+    color: #FFFFFF;
+}
+.h{
+    position: relative;
+    bottom: 340px;
+    left: 1230px;
+    font-size: 18px;
+    font-weight: 300px;
+    font-family:"Mulish", sans-serif ;
+    color: #FFFFFF;
+}
+#hel{
+    position: relative;
+    bottom: 340px;
+    left: 1230px;
+    font-size: 18px;
+    font-weight: 300px;
+    font-family:"Mulish", sans-serif ;
+    color: #FFFFFF;
+}
+#con{
+    position: relative;
+    bottom: 340px;
+    left: 1230px;
+    font-size: 18px;
+    font-weight: 300px;
+    font-family:"Mulish", sans-serif ;
+    color: #FFFFFF;
+}
+#inst{
+    position: relative;
+    bottom: 340px;
+    left: 1230px;
+    font-size: 18px;
+    font-weight: 300px;
+    font-family:"Mulish", sans-serif ;
+    color: #FFFFFF;
+}
+#it{
+    position: relative;
+    bottom: 340px;
+    left: 1230px;
+    font-size: 18px;
+    font-weight: 300px;
+    font-family:"Mulish", sans-serif ;
+    color: #FFFFFF;  
+}
+#trac{
+    position: relative;
+    bottom: 250px   ;
+    left: 200px ;
+    font-size: 18px;
+    font-weight: 300px;
+    font-family:"Mulish", sans-serif ;
+    color: #FFFFFF;
+}
+     
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 

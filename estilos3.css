@@ -1,0 +1,54 @@
+body{
+    
+    border-color: rgb(89, 0, 255);
+    background-color: rgb(229, 238, 238);
+}
+
+.titulo1{
+display: flex;
+justify-content: center;
+tex
+
+}
+
+.imagen1{
+    position: relative;
+    left: 350px;
+}
+
+.parrafo1{
+    position: relative;
+    bottom: 400px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+   
+
+
+
+}
+.tipo{
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(13, 15, 8);
+font-weight: bold;
+
+}
+table {
+border-collapse: collapse;
+position: relative;
+bottom: 60px;
+font-family: sans-serif;
+}
+ 
+th,td{
+   border-style: ridge;
+  
+}
+tr>th{
+    background-color: rgb(79, 79, 180);
+}
+
+tbody>tr:hover{
+background-color: rgb(60, 135, 206);
+}
+
+
+

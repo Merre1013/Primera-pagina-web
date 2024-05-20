@@ -1,0 +1,203 @@
+.titulo1{
+    position: relative ;
+    left: 500px;
+    bottom: 300px;
+    
+      }      
+    
+      #contenedor1{
+        position: relative;
+        left: 500px;
+        bottom: 300px;
+        width: 20%;
+      }
+    .read{
+      border-radius: 20px;
+        padding: 10px;
+        border: none;
+        width: 100px;
+        position: relative;
+        left: 335px;
+        bottom: 300px;
+        color: rgb(101, 101, 197);
+
+    }
+    .titulo2{
+        position: relative;
+        bottom: 200px;
+        right: 1s00px;
+    
+    }
+    
+    
+      .contenedor2{
+        position: relative;
+        left: 0%;
+        width: 50%;
+        bottom: 200px;
+        border-radius: 20px;
+       
+      }
+
+      
+    .download{
+      border-radius: 20px;
+      width: 150px;
+      color: rgb(101, 101, 197);
+      border: none;
+      padding: 10px;
+      
+
+    }
+
+    .flechadow{
+      position: relative;
+      left: 110px;
+      bottom: 25px;
+      
+    
+    }
+      
+
+      .flecha{
+      position: relative;
+      left: 160px;
+      bottom: 22px;
+      }
+    
+      .imagen2{
+    position: relative;
+    left: 540px;
+    bottom: 150px;
+    
+      }
+    
+      .otrotitulo{
+       position: relative;
+       top: 20px;
+       right: 170px;
+              
+      }
+    
+      .linea1{
+      display: flex;
+      justify-content:center;
+      align-items: center;
+      width:0%
+                  
+      }
+    
+    .imagen3{
+       position: relative;
+       right: 530px;
+       top: 100px;
+      }
+
+      .parrafo3{
+        position: relative;
+        bottom: 20px;
+        top: 10px;
+      }
+
+
+
+      .read1{
+        position: relative;
+        top: 635px;
+        left: 5px;
+        border-radius: 20px;
+        padding: 10px;
+        border: none;
+        width: 100px;
+        color: rgb(101, 101, 197);
+        
+  
+      }
+  
+      .flecha1{
+        position: relative;
+       left: 100px;
+       bottom: 5px;
+      
+
+      }
+       
+
+    .imagen4{
+      position: relative;
+      left: 170px;
+      bottom: 350px;
+   }
+
+    .read2{
+      position: relative;
+      top: 600px;
+      left: 270px;
+      border-radius: 20px;
+      padding: 10px;
+      border: none;
+      width: 100px;
+      color: rgb(101, 101, 197);
+    }
+
+    .flecha2{
+     position: relative;
+     left: 100px;
+     bottom: 30px;
+     top: 5px;
+    
+
+    }
+
+
+    .imagen5{
+        position: relative;
+        left: 170px;
+        bottom: 350px;
+
+      }
+
+      .read3{
+        position: relative;
+        top: 600px;
+        left: 480px;
+        border-radius: 40px;
+        padding: 10px;
+        border: none;
+        width: 100px;
+        color: rgb(101, 101, 197);
+
+      }
+
+      .flecha3{
+       position: relative;
+       left: 10px;
+       bottom: 30px;
+       top: 5px;
+
+      }
+
+      .botones :hover {
+      color: blue;
+      }
+      
+
+
+
+    .vertodo{
+        position: relative;
+        top: 130px;
+        margin-left: 20px;
+        border-radius: 20px;
+        padding: 20px;
+        border: none;
+        width: 180px;
+        height: 40px;
+        right: 300px;
+        text-align: center; 
+        box-shadow: 5px 5px 5px cornflowerblue;
+        color: rgb(101, 101, 197);
+      
+        
+      
+    }
